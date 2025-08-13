@@ -1,10 +1,74 @@
-"Code like a rockstar, ship like a ninja."
-"Keep calm and debug on."
-"First, solve the problem. Then, write the code."
-"Why do programmers prefer dark mode? Because light attracts bugs!"
-"Talk is cheap. Show me the code."
-"Stay curious, keep learning."
-"Eat, Sleep, Code, Repeat."
-"Your code is poetry — write it beautifully."
-"Real programmers count from 0."
-"Debugging: Being the detective in a crime movie where you are also the murderer."
+Code like a rockstar, ship like a ninja.
+Keep calm and debug on.
+First, solve the problem. Then, write the code.
+Why do programmers prefer dark mode? Because light attracts bugs!
+Talk is cheap. Show me the code.
+Stay curious, keep learning.
+Eat, Sleep, Code, Repeat.
+Your code is poetry — write it beautifully.
+Real programmers count from 0.
+Debugging: Being the detective in a crime movie where you are also the murderer.
+Hello, World! You’ve just started a new adventure.
+Good code is its own best documentation.
+Keep your code clean and comments cleaner.
+Every great developer you know got there by solving problems they were unqualified for.
+Simplicity is the soul of efficiency.
+Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.
+Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.
+Programming isn’t about what you know; it’s about what you can figure out.
+Code never lies, comments sometimes do.
+Code hard, commit harder.
+Stay positive, test negative.
+You are the debugger the code needs.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+In order to be irreplaceable, one must always be different.
+Keep calm and code on.
+Code like nobody’s watching.
+To iterate is human, to recurse divine.
+Computers are fast; programmers keep it slow.
+Don’t repeat yourself, unless it’s your own code.
+Version control is your best friend.
+Make it work, make it right, make it fast.
+The best error message is the one that never shows up.
+Coding is like humor. If you have to explain it, it’s bad.
+Programming is the art of algorithm design and the craft of debugging errant code.
+Code well, rest well.
+The computer was born to solve problems that did not exist before.
+Write code as if the person who ends up maintaining it is a violent psychopath who knows where you live.
+Make bugs your best teachers.
+Great code comes from great coffee.
+Think twice, code once.
+Write code for humans, not machines.
+Good programmers write code that humans can understand.
+Don’t code today what you can refactor tomorrow.
+Coding is 10% writing code and 90% understanding why it doesn’t work.
+Every line of code is a potential bug waiting to happen.
+Keep your code DRY and your coffee strong.
+The best way to get a project done faster is to start sooner.
+Programming is like a puzzle — piece it together with patience.
+Learn to love refactoring.
+Code is like humor — when you have to explain it, it’s bad.
+Debugging is like being the detective in a crime movie where you are also the murderer.
+If at first you don’t succeed; call it version 1.0.
+One man’s crappy software is another man’s full-time job.
+There are two ways to write error-free programs; only the third one works.
+If you automate a mess, you get an automated mess.
+Saying “I don’t care about performance” is the fastest way to slow software.
+Code is like a joke: it has to be funny to be effective.
+When in doubt, use brute force.
+In programming, the hard part isn’t solving problems, but deciding what problems to solve.
+Don’t worry about bugs, worry about the code that produces them.
+Good code is short, simple, and symmetrical — the challenge is figuring out how to get there.
+Programming is not about typing, it’s about thinking.
+You can’t have great software without a great team.
+The best code is no code at all.
+Writing bad code is easy; writing good code is hard.
+Great programmers are not born, they are made.
+Your code is your legacy.
+Every bug you fix is a victory.
+Keep pushing commits like a boss.
+Code, test, repeat.
+You’ve got this!
+Code smarter, not harder.
+Stay curious, keep coding.
+Happy coding!
