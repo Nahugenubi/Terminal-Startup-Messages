@@ -10,7 +10,7 @@
 - Easy to install with a single command  
 - Customize your own list of messages  
 - Supports Bash, Zsh, and most Unix shells  
-
+- You can always change the Messages.txt to add Custom Messages!
 ---
 
 ## Installation
