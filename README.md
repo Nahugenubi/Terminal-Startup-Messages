@@ -4,6 +4,22 @@
 
 ---
 
+
+
+
+
+
+
+
+<img width="675" height="436" alt="image" src="https://github.com/user-attachments/assets/439f6ebf-4e0d-40b8-b9f8-3b1bb42f3fd1" />
+
+
+
+
+
+
+
+
 ## Features
 
 - Zero dependencies, runs with Python 3  
